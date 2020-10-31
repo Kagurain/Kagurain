@@ -22,4 +22,4 @@
 
 > **Blog:** https://hexo.ink
 >
-> **Twitter:** <a href="https://twitter.com/byteasier">@Byteasier</a> [ 一个由我个人运营的网络科技团队. ]<!---挂牌空壳工作室-->
+> **Twitter:** <a href="https://twitter.com/Kagura1n">@Kagura1n</a>
