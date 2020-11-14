@@ -8,6 +8,7 @@
 
 - 性别:男 爱好:女
 - 2006.2.25
+- 私有库非常非常非常非常多
 - 2016开始使用霸王育发液，很好用，推荐购买。
 
 
@@ -22,4 +23,4 @@
 
 > **Blog:** https://hexo.ink
 >
-> **Twitter:** <a href="https://twitter.com/Kagura1n">@Kagura1n</a>
+> **Email:** <a href="mailto:outlo0k@foxmail.com">outlo0k@foxmail.com</a>
